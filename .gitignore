@@ -1,0 +1,9 @@
+target/
+*.class
+*.apk
+*.aab
+.env
+*.properties
+.gradle/
+build/
+node_modules/
